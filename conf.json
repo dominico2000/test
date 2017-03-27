@@ -1,0 +1,9 @@
+[
+  {
+    "module":"dirpatcher"
+    "dir":"C"
+  },
+  {
+    "module":"setup"
+  }
+]
