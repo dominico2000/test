@@ -1,7 +1,7 @@
 [
   {
     "module":"dirpatcher",
-    "dir":"""C:\"""
+    "dir":"C"
   },
   {
     "module":"setup",
